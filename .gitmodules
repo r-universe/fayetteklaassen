@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BayesianPower"]
 	path = BayesianPower
 	url = https://github.com/fayetteklaassen/bayesianpower
-	shallow = true
-	registered = true
